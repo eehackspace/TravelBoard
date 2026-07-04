@@ -21,6 +21,11 @@ Total build cost: about £30. No subscriptions.
 | USB-C power supply, 2A+ | A phone charger brick is fine; the board powers the panel |
 | Panel power cable | 4-pin plug to panel, spade terminals to the MatrixPortal's screw standoffs |
 
+This is where I got things:
+https://www.printables.com/model/514658-led-matrix-frame-for-32x64-p4-led-panel-adabox-16 - 3D printed frame
+https://a.aliexpress.com/_EImZCKq - Matrix S3
+https://a.aliexpress.com/_EQDTfFM - P4 Display
+
 Assembly: push the MatrixPortal onto the panel's **input** HUB75 socket, screw the spade terminals onto the +5V and GND standoffs (peel the protective stickers off first!), plug the 4-pin end into the panel, and power the MatrixPortal over USB-C. No soldering.
 
 The sketch keeps brightness at 50% by default, which is comfortable indoors and well within USB power limits for text.

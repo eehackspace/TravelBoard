@@ -11,7 +11,6 @@ The clever bit: it hides departures you can't actually catch. Set how long it ta
 Total build cost: about £30. No subscriptions.
 
 ![Departure board](image.jpg)
-*(Add a photo of your board here)*
 
 ## Hardware
 
